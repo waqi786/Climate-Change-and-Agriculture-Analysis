@@ -4,7 +4,7 @@
 
 This project explores the relationship between climate change and its impact on agriculture through detailed data analysis. The study examines various factors such as temperature, precipitation, CO2 emissions, and their influence on crop yield and agricultural practices. The goal is to provide insights into trends and correlations within the data that highlight the effects of climate change on farming.
 
-## Key Features:
+## Key Features
 
 - **Data Analysis**: A comprehensive examination of how climate change variables (e.g., temperature, CO2 emissions) affect crop yield, regional differences, and agricultural practices.
 - **Data Visualization**: A wide range of charts and graphs to visualize climate impacts on agriculture, helping to uncover key patterns.
